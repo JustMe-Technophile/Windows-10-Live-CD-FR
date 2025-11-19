@@ -1,6 +1,5 @@
-=================================================================
 WINDOWS LIVE CD FR - Un Windows sur un fichier ou votre clé USB !
-=================================================================
+
 
 Beaucoup de Lives CD de Windows existent, Hiren Boot CD, AdhvBoot, Windows 10 PE Bobomb, et bien plus encore.
 Cependant je n'ai jamais vu de Live CD Français, je vais essayer d'y remédier.
