@@ -15,3 +15,4 @@ Je ne cautionne en AUCUN CAS : Ceux qui utilisent cet ISO à des fins criminelle
 Si vous avez un bug, je vous invite à me le signaler sur Discord (Le lien de mon serveur est à droite, à gauche étant celui d'un petit youtuber que je soutien) : https://guns.lol/justeme
 
 [CECI EST UNE VERSION BÊTA README LE TEMPS D'EN FAIRE UN PLUS CLEAN QUAND J'AURAI DU TEMPS]
+ps : je débute sur github, donc je comprend si c'est un peu le bordel dans les commits du projet 💀
