@@ -1,4 +1,3 @@
-=================================================================
 WINDOWS LIVE CD FR - Un Windows sur un fichier ou votre clé USB !
 
 
